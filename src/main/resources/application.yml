@@ -1,0 +1,9 @@
+swagger:
+  title: Data sharing application
+  description: Demo application to share data acrose instances
+
+notifier:
+  uri: http://localhost:8080/v1/update
+
+
+
